@@ -1,0 +1,8 @@
+{
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.forceDownload": true,
+    "sync.forceUpload": true,
+    "sync.gist": "vscode://vscode.github-authentication/did-authenticate?windowId=1&code=d3199228a5c651075af4&state=8f007971-2854-4be0-a437-76d2bbdf940c",
+    "sync.quietSync": true
+}
